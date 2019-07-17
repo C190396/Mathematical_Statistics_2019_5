@@ -1,0 +1,2 @@
+# Mathematical_Statistics_2019_5
+数理統計学2019前期課題　解答参考例
